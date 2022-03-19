@@ -5,7 +5,7 @@ This is a simple flascard app that functions properly
 
 ### App Walk-though
 
-<img src="Kapture 2022-03-05 at 20.10.57.gif" width=200><br>
+<img src="Kapture 2022-03-19 at 19.56.29.gif" width=200><br>
 
 
 ## Required
