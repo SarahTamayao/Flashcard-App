@@ -16,6 +16,7 @@
 		78146B0727CAAF5200059379 /* Lab1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78146B0627CAAF5200059379 /* Lab1Tests.swift */; };
 		78146B1127CAAF5200059379 /* Lab1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78146B1027CAAF5200059379 /* Lab1UITests.swift */; };
 		78146B1327CAAF5200059379 /* Lab1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78146B1227CAAF5200059379 /* Lab1UITestsLaunchTests.swift */; };
+		783D747727DD2B8D0010BEF4 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 783D747627DD2B8D0010BEF4 /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		78146B0C27CAAF5200059379 /* Lab1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lab1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		78146B1027CAAF5200059379 /* Lab1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab1UITests.swift; sourceTree = "<group>"; };
 		78146B1227CAAF5200059379 /* Lab1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		783D747627DD2B8D0010BEF4 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				78146AF827CAAF5200059379 /* Assets.xcassets */,
 				78146AFA27CAAF5200059379 /* LaunchScreen.storyboard */,
 				78146AFD27CAAF5200059379 /* Info.plist */,
+				783D747627DD2B8D0010BEF4 /* CreationViewController.swift */,
 			);
 			path = Lab1;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				78146AF427CAAF5100059379 /* ViewController.swift in Sources */,
 				78146AF027CAAF5100059379 /* AppDelegate.swift in Sources */,
 				78146AF227CAAF5100059379 /* SceneDelegate.swift in Sources */,
+				783D747727DD2B8D0010BEF4 /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
