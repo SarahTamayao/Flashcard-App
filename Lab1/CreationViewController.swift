@@ -19,7 +19,6 @@ class CreationViewController: UIViewController {
         
         editAnswerOne.text = initailOption1
         editAnswerTwo.text = initialOption2
-        editAnswerThree.text = initialOption3
         // Do any additional setup after loading the view.
     }
     
@@ -33,7 +32,6 @@ class CreationViewController: UIViewController {
     
     @IBOutlet weak var editAnswerOne: UITextField!
     @IBOutlet weak var editAnswerTwo: UITextField!
-    @IBOutlet weak var editAnswerThree: UITextField!
     
     
     
@@ -50,7 +48,6 @@ class CreationViewController: UIViewController {
         
         let optionOneText = editAnswerOne.text!
         let optionTwoText = editAnswerTwo.text
-        let optionThreeText = editAnswerThree.text
         
         
         
@@ -71,7 +68,7 @@ class CreationViewController: UIViewController {
             if initialQuestion != nil{
                 isExisting = true
             }
-            flashCardController.updateFlashcardQuestions(question: questionText!, answer: answerText!, option1: optionOneText, option2: optionTwoText!, option3: optionThreeText!, isExisting: isExisting)
+            flashCardController.updateFlashcardQuestions(question: questionText!, answer: answerText!, option1: optionOneText, option2: optionTwoText!, isExisting: isExisting)
             dismiss(animated: true)
         }
         
