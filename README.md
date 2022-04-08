@@ -51,7 +51,11 @@ Updated functionality for the Flashcard app. See features below
 
 
 ## Lab 4
-<img src="lab 4.mp4" width=200><br>
+<img src="lab 4.gif" width=200><br> 
+
+### App Description
+Updated functionality for the Flashcard app. See features below 
+
 
 ## Required
 - [x] User should see the app icon 
@@ -64,3 +68,4 @@ Updated functionality for the Flashcard app. See features below
 - [x] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
 - [x] User should see all views properly layout when using the app on a phone of different sizes
 - [x] Correct answer in multiple choice should be random
+
