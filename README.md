@@ -51,7 +51,7 @@ Updated functionality for the Flashcard app. See features below
 
 
 ## Lab 4
-<img src="lab 4.gif" width=200><br> 
+<img src="lab 4.gif" width=1000><br> 
 
 ### App Description
 Updated functionality for the Flashcard app. See features below 
